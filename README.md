@@ -24,10 +24,17 @@ I have used MATLAB2020A doing artist classification, and most of the code is aut
 
 References
 [1] lllyasviel, Style2paints: Help human in their standard coloring workflow!, in GitHub, Accessed: 2021, https://github.com/lllyasviel/style2paints
+
 [2] Ricky J Li, Chinese Fine Art, Kaggle dataset, 2020, https://www.kaggle.com/rickyjli/chinese-fine-art
+
 [3] Icaro, Best Artworks of All Time, Kaggle dataset, 2019, https://www.kaggle.com/ikarus777/best-artworks-of-all-time
+
 [4] WikiArt, WikiArt, Accessed: 2021, https://www.wikiart.org/
+
 [5] B.Saleh and A.Elgammal, Large-scale Classification of Fine-Art Paintings: Learning The Right Metric on The Right Feature, Paper With Code, 2015, https://paperswithcode.com/paper/largescale-classification-of-fine-art
+
 [6] C.Szegedy, Going Deeper with Convolutions, Computer Vision and Pattern Recognition, 2014, arXiv:1409.4842.
+
 [7] Z.Wu, Wider or Deeper: Revisiting the ResNet Model for Visual Recognition, 2019, Pages 119-133.
+
 [8] K.Simonyan and A.Zisserman, Very Deep Convolutional Networks for Large-Scale Image Recognition, Computer Vision and Pattern Recognition, 2014, arXiv:1409.1556.
