@@ -16,3 +16,10 @@ Pretrained Model Use
 -ResNet101
 
 -VGG-19
+
+Abstract— This project is aiming to attach art filters to an
+image as input photo or artwork base on generative adversarial
+network (GAN). Making model able to analysis the feature of
+image by using convolutional neural network (CNN), detecting
+the edge of image and turning it to a line sketch, and helping
+user coloring it by chosen art filter base on style2paints[1].
